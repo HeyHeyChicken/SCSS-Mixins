@@ -30,4 +30,14 @@ Here are some examples of what you can do :
 
 ## Features
 
-- [keyframes](//developer.mozilla.org/fr/docs/Web/CSS/@keyframes){:target="_blank"}
+- [keyframes](//developer.mozilla.org/fr/docs/Web/CSS/@keyframes)
+- [selection-color](//developer.mozilla.org/fr/docs/Web/CSS/::selection)
+- [box-sizing](//developer.mozilla.org/fr/docs/Web/CSS/box-sizing)
+- [appearance](//developer.mozilla.org/fr/docs/Web/CSS/appearance)
+- [user-select](//developer.mozilla.org/fr/docs/Web/CSS/user-select)
+- [filter](//developer.mozilla.org/fr/docs/Web/CSS/filter)
+- [animation](//developer.mozilla.org/fr/docs/Web/CSS/animation)
+- [animation-delay](//developer.mozilla.org/fr/docs/Web/CSS/animation-delay)
+- [transform-origin](//developer.mozilla.org/fr/docs/Web/CSS/transform-origin)
+- [align-items](//developer.mozilla.org/fr/docs/Web/CSS/align-items)
+- [transform](//developer.mozilla.org/fr/docs/Web/CSS/transform)
