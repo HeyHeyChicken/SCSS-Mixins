@@ -31,7 +31,7 @@ Here are some examples of what you can do :
 ## Features
 
 - [keyframes](//developer.mozilla.org/fr/docs/Web/CSS/@keyframes)
-- [selection-color](//developer.mozilla.org/fr/docs/Web/CSS/::selection)
+- [selection](//developer.mozilla.org/fr/docs/Web/CSS/::selection)
 - [box-sizing](//developer.mozilla.org/fr/docs/Web/CSS/box-sizing)
 - [appearance](//developer.mozilla.org/fr/docs/Web/CSS/appearance)
 - [user-select](//developer.mozilla.org/fr/docs/Web/CSS/user-select)
@@ -41,3 +41,7 @@ Here are some examples of what you can do :
 - [transform-origin](//developer.mozilla.org/fr/docs/Web/CSS/transform-origin)
 - [align-items](//developer.mozilla.org/fr/docs/Web/CSS/align-items)
 - [transform](//developer.mozilla.org/fr/docs/Web/CSS/transform)
+- [box-shadow](//developer.mozilla.org/fr/docs/Web/CSS/box-shadow)
+- [transition](//developer.mozilla.org/fr/docs/Web/CSS/transition)
+- [border-radius](//developer.mozilla.org/fr/docs/Web/CSS/border-radius)
+- [font-face](//developer.mozilla.org/fr/docs/Web/CSS/@font-face)
