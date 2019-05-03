@@ -45,3 +45,5 @@ Here are some examples of what you can do :
 - [transition](//developer.mozilla.org/fr/docs/Web/CSS/transition)
 - [border-radius](//developer.mozilla.org/fr/docs/Web/CSS/border-radius)
 - [font-face](//developer.mozilla.org/fr/docs/Web/CSS/@font-face)
+
+Created by [Antoine Duval (HeyHeyChicken)](//antoine.cuffel.fr) with ❤ and ☕ (chocolate) in [Rouen](//en.wikipedia.org/wiki/Rouen).
