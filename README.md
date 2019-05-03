@@ -11,7 +11,23 @@ It provides easy functions to code CSS attributes for each browsers.
 
 ## Installation
 
-Juts add this line in your SCSS file : 
+Juts add the "SCSS-Mixins.scss" file in your project and add this line in your SCSS file :
 ```scss
 @import "your_path/SCSS-Mixins.scss";
 ```
+
+## Usage
+
+Here are some examples of what you can do :
+
+```scss
+@include transform(translate(-50%, -50%));
+@include transition(opacity, 0.2s, linear);
+@include border-radius(2px);
+@include user-select(none);
+@include transition(none);
+```
+
+## Features
+
+- [keyframes](//developer.mozilla.org/fr/docs/Web/CSS/@keyframes)
