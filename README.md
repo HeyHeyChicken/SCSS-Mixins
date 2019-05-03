@@ -30,4 +30,4 @@ Here are some examples of what you can do :
 
 ## Features
 
-- [keyframes](//developer.mozilla.org/fr/docs/Web/CSS/@keyframes)
+- [keyframes](//developer.mozilla.org/fr/docs/Web/CSS/@keyframes){:target="_blank"}
