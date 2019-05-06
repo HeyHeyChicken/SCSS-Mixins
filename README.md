@@ -1,6 +1,6 @@
 <div align="center">
   
-![SCSS Mixins](https://user-images.githubusercontent.com/33424294/57123425-152da600-6d82-11e9-985f-d8772413d588.png)
+![SCSS Mixins](https://user-images.githubusercontent.com/33424294/57211552-f37e2a00-6fe0-11e9-8900-cd2d1f69ebf2.png)
 <br/><br/><br/>
 **SCSS Mixins** is an SCSS library that will help you to code for multiple browsers.<br>
 It provides easy functions to code CSS attributes for each browsers.
