@@ -1,6 +1,6 @@
 <div align="center">
   
-<div>
+<div style="max-width:500px;">
   
 ![SCSS Mixins](https://user-images.githubusercontent.com/33424294/57211552-f37e2a00-6fe0-11e9-8900-cd2d1f69ebf2.png)
   
